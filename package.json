@@ -1,7 +1,7 @@
 {
-  "name": "bento",
+  "name": "my-start-page",
   "version": "1.3.0",
-  "description": "A Simple Startpage",
+  "description": "A Simple Startpage by bento",
   "main": "index.js",
   "scripts": {
     "watch:sass": "node-sass sass/main.scss css/style.css -w",
